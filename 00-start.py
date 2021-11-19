@@ -8,6 +8,8 @@ from multiprocessing import Pool, freeze_support
 import threading
 import asyncio
 
+import scipy
+
 import pathlib
 import tqdm
 import numpy as np
